@@ -1,0 +1,58 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    text-transform: capitalize;
+    font-family:'Dancing Script';
+    text-align:center;
+    font-size: 50px;
+}
+.group{
+    color: white;
+    padding: 20px 24px; 
+    cursor: pointer;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'verdana';
+
+
+}
+h2{
+    font-family: 'verdana';
+    font-size: 40px;
+    text-align: center;
+}
+button{
+    padding: 14px 40px;
+}
+p{
+    font-family: arial;
+    text-align: center;
+    background-color: cadetblue;
+    font-size: 30px;
+}
+
+img{
+    height: 320px;
+    width: 300px;
+
+}
+.content-right {
+    float: right;
+    margin-left: 10px;
+}
+.content-left {
+    float: left;
+    margin-right: 10px;
+}
+.text {
+    margin-left: 50px;
+    margin-right: 50px;
+    width:100%;
+    padding: 50px;
+}
+h3{
+    border-style: solid;
+    text-align: center;
+    font-size: 40px;
+}
